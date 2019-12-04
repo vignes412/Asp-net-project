@@ -1,0 +1,41 @@
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Shop101 Auto.dll.config
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Shop101 Auto.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Shop101 Auto.pdb
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Castle.Core.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Newtonsoft.Json.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\SeleniumExtras.PageObjects.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\WebDriver.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\WebDriver.Support.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Castle.Core.xml
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Newtonsoft.Json.pdb
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Newtonsoft.Json.xml
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\WebDriver.xml
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\WebDriver.Support.xml
+G:\Asp .net Projects\Shop101 Auto\obj\Debug\Shop101 Auto.csprojAssemblyReference.cache
+G:\Asp .net Projects\Shop101 Auto\obj\Debug\Shop101 Auto.csproj.CopyComplete
+G:\Asp .net Projects\Shop101 Auto\obj\Debug\Shop101 Auto.dll
+G:\Asp .net Projects\Shop101 Auto\obj\Debug\Shop101 Auto.pdb
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\linux\native\brolib_x64.so
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\linux\native\brolib_x86.so
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\osx\native\brolib_x64.dylib
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\win\native\brolib_x64.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\win\native\brolib_x64.pdb
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\win\native\brolib_x86.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\runtimes\win\native\brolib_x86.pdb
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Appium.Net.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Brotli.Core.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\CssParser.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Eyes.Appium.DotNet.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Eyes.Sdk.DotNet.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\HtmlAgilityPack.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Ionic.Zip.Reduced.dll
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\Eyes.Sdk.DotNet.xml
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\HtmlAgilityPack.pdb
+G:\Asp .net Projects\Shop101 Auto\bin\Debug\HtmlAgilityPack.xml
